@@ -59,7 +59,7 @@ export const list = [
     location: "8359 square feet ⦁	Well-decorated",
     category: "For Rent",
     price: "$32,700",
-    type: "Apartment",
+    // type: "Apartment",
   },
   {
     id: 2,
@@ -68,7 +68,7 @@ export const list = [
     location: "9503 square feet ⦁	Well-decorated",
     category: "For Rent",
     price: "$29,750",
-    type: "Condos",
+    // type: "Condos",
   },
   {
     id: 3,
@@ -77,7 +77,7 @@ export const list = [
     location: "2308 square feet ⦁	Well-decorated",
     category: "For Rent",
     price: "$319,50",
-    type: "Condos",
+    // type: "Condos",
   },
   {
     id: 4,
@@ -86,7 +86,7 @@ export const list = [
     location: "9503 square feet ⦁	Well-decorated",
     category: "For Rent",
     price: "$29,750",
-    type: "Condos",
+    // type: "Condos",
   },
   {
     id: 5,
@@ -95,7 +95,7 @@ export const list = [
     location: "9503 square feet ⦁	Well-decorated",
     category: "For Rent",
     price: "$29,750",
-    type: "Condos",
+    // type: "Condos",
   },
   {
     id: 6,
@@ -104,7 +104,7 @@ export const list = [
     location: "9503 square feet ⦁	Well-decorated",
     category: "For Rent",
     price: "$29,750",
-    type: "Condos",
+    // type: "Condos",
   },
 ]
 export const awards = [
