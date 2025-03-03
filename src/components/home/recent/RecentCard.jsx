@@ -22,12 +22,12 @@ const RecentCard = () => {
                   <i ></i> {location}
                 </p>
               </div>
-              <div className='button flex'>
+              {/* <div className='button flex'>
                 <div>
                   <button className='btn2'>{price}</button> <label htmlFor=''>/month + NNN fees</label>
-                </div>
+                </div> */}
                 {/* <span>{type}</span> */}
-              </div>
+              {/* </div> */}
             </div>
           )
         })}
